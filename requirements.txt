@@ -1,0 +1,3 @@
+# yeah I know you can't build it on windows.
+adafruit-circuitpython-dht
+RPi.GPIO
